@@ -32,7 +32,7 @@ Confidential and Proprietary - Qualcomm Technologies, Inc.
 	</data>
 
 	<data type="EMMC_PARAMETER">
-		<total_block>15269888</total_block>
+		<total_block>7123011</total_block>
 		<partition_mbn>gpt_main0.bin</partition_mbn>
 		<partition_mbn_backup>gpt_backup0.bin</partition_mbn_backup>
 	</data>
